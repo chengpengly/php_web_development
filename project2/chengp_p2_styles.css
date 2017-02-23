@@ -1,0 +1,16 @@
+*{
+	margin:0px;
+	padding:0px;
+	
+	font-size:14px;
+	
+}
+a{color:black;}
+h1{font-size:24px;
+   text-align:center;
+   margin:20px auto;}
+p{text-align:right;}
+p  a {
+	   margin-left:5px;
+	  
+   }
