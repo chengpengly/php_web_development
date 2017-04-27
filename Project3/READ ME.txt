@@ -1,3 +1,8 @@
 Live url: https://opal.ils.unc.edu/~chengp/Project3/results.php
 Login : username : rob
         password: rob
+Functionality :
+1)A user can enter search terms into the search box and press the “Search” button to display a list of matching results in the box at the center. 
+2)As the user types into the search box , a set of search suggestions should be displayed in area below.
+3)When the user moves their mouse over a result displayed in the results area , details about that result should be shown in area in the right].
+
