@@ -1,0 +1,67 @@
+#flex_container{
+display:flex;
+justify-content:center;	
+	
+}
+input{
+	border:1px solid black;
+	border-radius:5px;
+}
+#B_C{
+	width:200px;
+
+	margin:20px;
+	position:relative;
+}
+#b{
+	right:0px;
+	position:absolute;
+	margin-top:5px;
+	
+}
+#p2{
+	
+	margin-top:40px;
+}
+#A{
+	width:400px;
+	height:400px;
+	border:1px solid black;
+	margin:20px;
+
+}
+#D{
+	
+	width:300px;
+	height:300px;
+	border:1px solid black;
+	margin:20px;
+	
+}
+
+#p{
+	text-align:center;
+	font:20px bold;
+	
+}
+#suggestion{
+	width:200px;
+	height:400px;
+	border:1px solid black;
+}
+
+#login{
+	margin:100px auto;
+	text-align:center;
+}
+
+#info{
+	
+	text-align:right;
+}
+.show{
+	visibility:visible;
+}
+.hidden{
+	display:none;
+}
